@@ -13,3 +13,35 @@ figures
 molecule
 applications
 experiments
+
+# --- KAN reproduction additions ---
+# virtual environments
+.venv/
+venv/
+env/
+
+# caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# pykan checkpoints (written by auto_save / log_history; we patch these off, but stray ones appear in the cwd)
+model/
+*_state
+*_cache_data
+*_config.yml
+*.ckpt
+*.pt
+*.pth
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# NOTE: .gitignore cannot filter by size. Files over 20 MB must be checked by hand
+# (step 6 of the publishing instructions lists any that slipped in).
+
+# upstream ignores 'figures'; our reproduction figures must be tracked
+!reproduction/figures/

@@ -1,0 +1,11 @@
+# Python 3.11 (tested with 3.11.0). Versions below come from results/pip_freeze.txt.
+# Create the environment with:  py -3.11 -m venv .venv   (Windows)   |   python3.11 -m venv .venv   (Linux/macOS)
+torch==2.15.0
+pykan==0.2.8
+numpy==2.4.6
+pandas==3.1.1
+matplotlib==3.11.2
+sympy==1.14.0
+scipy==1.17.1
+# pykan imports scikit-learn; it is also pulled in as a dependency of pykan, pinned here for reproducibility.
+scikit-learn==1.9.1
