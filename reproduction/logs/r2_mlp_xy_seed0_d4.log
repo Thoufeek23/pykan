@@ -1,0 +1,5 @@
+19:33:28 xy seed=0 d=4 w=6 P=151 train=3.467e-03 test=3.749e-03 (48s)
+19:34:17 xy seed=0 d=4 w=10 P=371 train=1.166e-03 test=1.220e-03 (49s)
+19:35:17 xy seed=0 d=4 w=16 P=881 train=2.613e-04 test=2.627e-04 (59s)
+19:36:48 xy seed=0 d=4 w=28 P=2549 train=7.035e-04 test=7.111e-04 (91s)
+19:38:50 xy seed=0 d=4 w=48 P=7249 train=5.359e-04 test=5.452e-04 (122s)

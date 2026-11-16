@@ -1,0 +1,5 @@
+19:43:21 hd seed=0 d=3 w=6 P=217 train=1.076e-02 test=2.113e-02 (69s)
+19:44:39 hd seed=0 d=3 w=10 P=441 train=6.596e-03 test=2.354e-02 (78s)
+19:45:52 hd seed=0 d=3 w=16 P=897 train=1.722e-03 test=2.313e-02 (73s)
+19:47:25 hd seed=0 d=3 w=28 P=2241 train=5.788e-04 test=1.023e-02 (93s)
+19:49:22 hd seed=0 d=3 w=48 P=5761 train=4.139e-04 test=9.484e-03 (117s)

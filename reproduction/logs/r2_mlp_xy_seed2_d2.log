@@ -1,0 +1,5 @@
+19:38:31 xy seed=2 d=2 w=10 P=151 train=6.828e-04 test=7.466e-04 (49s)
+19:39:22 xy seed=2 d=2 w=16 P=337 train=1.926e-04 test=2.233e-04 (52s)
+19:40:08 xy seed=2 d=2 w=28 P=925 train=7.169e-04 test=7.895e-04 (46s)
+19:40:54 xy seed=2 d=2 w=48 P=2545 train=4.857e-04 test=5.060e-04 (46s)
+19:41:52 xy seed=2 d=2 w=80 P=6801 train=2.397e-04 test=3.039e-04 (58s)

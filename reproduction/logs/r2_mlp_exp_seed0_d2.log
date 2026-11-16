@@ -1,0 +1,5 @@
+19:21:01 exp seed=0 d=2 w=10 P=151 train=3.609e-03 test=3.467e-03 (91s)
+19:22:08 exp seed=0 d=2 w=16 P=337 train=2.486e-03 test=2.429e-03 (67s)
+19:23:10 exp seed=0 d=2 w=28 P=925 train=3.397e-03 test=3.893e-03 (62s)
+19:24:10 exp seed=0 d=2 w=48 P=2545 train=1.833e-03 test=1.963e-03 (60s)
+19:25:40 exp seed=0 d=2 w=80 P=6801 train=1.208e-03 test=1.154e-03 (90s)

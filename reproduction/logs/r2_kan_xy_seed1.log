@@ -1,0 +1,9 @@
+18:36:12 [[[2, 0], [2, 0], [1, 0]]] seed=1 G=3 params=72 train=2.143e-04 test=2.180e-04 medRMSE=1.370e-04 48.4s
+18:36:41 [[[2, 0], [2, 0], [1, 0]]] seed=1 G=5 params=84 train=5.152e-05 test=5.330e-05 medRMSE=2.897e-05 29.6s
+18:37:18 [[[2, 0], [2, 0], [1, 0]]] seed=1 G=10 params=114 train=7.785e-06 test=8.545e-06 medRMSE=3.101e-06 36.5s
+18:37:53 [[[2, 0], [2, 0], [1, 0]]] seed=1 G=20 params=174 train=1.977e-06 test=3.143e-06 medRMSE=9.245e-07 35.6s
+18:38:37 [[[2, 0], [2, 0], [1, 0]]] seed=1 G=50 params=354 train=2.300e-06 test=2.420e-05 medRMSE=1.162e-06 43.7s
+18:40:16 [[[2, 0], [2, 0], [1, 0]]] seed=1 G=100 params=654 train=3.009e-06 test=2.044e-04 medRMSE=4.739e-06 98.1s
+18:41:36 [[[2, 0], [2, 0], [1, 0]]] seed=1 G=200 params=1254 train=4.155e-06 test=1.200e-03 medRMSE=1.296e-04 79.4s
+18:46:14 [[[2, 0], [2, 0], [1, 0]]] seed=1 G=500 params=3054 train=7.490e-03 test=7.979e-02 medRMSE=2.926e-03 276.0s
+18:57:35 [[[2, 0], [2, 0], [1, 0]]] seed=1 G=1000 params=6054 train=3.291e-01 test=3.392e+00 medRMSE=2.661e-01 663.3s

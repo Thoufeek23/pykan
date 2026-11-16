@@ -1,0 +1,9 @@
+G=  3 | train RMSE 1.53e-02 | test RMSE 1.60e-02
+G= 10 | train RMSE 8.32e-03 | test RMSE 8.63e-03
+G= 20 | train RMSE 7.67e-03 | test RMSE 8.45e-03
+pruned shape: [2, 1, 1]
+fixing (0,0,0) with sin, r2=1.000000238418579, c=2
+fixing (0,1,0) with x^2, r2=1.0000004768371582, c=2
+fixing (1,0,0) with exp, r2=1.0000004768371582, c=2
+symbolic model | test RMSE 3.59e-04
+formula: 1.001*exp(1.0*x_2**2.0 + 1.0*sin(3.142*x_1)) - 0.001
