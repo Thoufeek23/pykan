@@ -1,3 +1,24 @@
+# KAN Reproduction and Extensions (CS536 Machine Learning, Binghamton University)
+
+This repository is a fork of [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan), the official implementation of
+*KAN: Kolmogorov–Arnold Networks* (Liu et al., ICLR 2025). The upstream code (`kan/`, tutorials, docs) is unchanged.
+Our reproduction of the paper's claims, plus extra experiments, lives in **[`reproduction/`](reproduction/)**:
+
+- [`reproduction/README.md`](reproduction/README.md): setup, how to run, folder layout, deviations from the paper
+- [`reproduction/RESULTS.md`](reproduction/RESULTS.md): full results tables and verdicts
+- [`reproduction/demo.py`](reproduction/demo.py): 25-line demo (grid extension, pruning, symbolic formula)
+
+## Team
+
+| GitHub username | Contribution |
+|---|---|
+| [Thoufeek23](https://github.com/Thoufeek23) | Reproduction R1–R5 (done); planned: H1 (label noise), H3 (2D forgetting) |
+| [jsonzoo](https://github.com/jsonzoo) | Planned: H2 (equal training time); to be filled in by them |
+
+Commit history shows each person's work; the hypotheses (H1–H3) have not been run yet and will be developed on the branches `h1-label-noise`, `h2-equal-compute` and `h3-2d-forgetting`.
+
+---
+
 <img width="600" alt="kan_plot" src="https://github.com/KindXiaoming/pykan/assets/23551623/a2d2d225-b4d2-4c1e-823e-bc45c7ea96f9">
 
 # Kolmogorov-Arnold Networks (KANs)
